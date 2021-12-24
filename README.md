@@ -2,6 +2,7 @@
 
 <!--
 **dmytrodollar/dmytrodollar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -10,4 +11,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on several applications (web/mobile)
 - 🤔 I’m looking for help with getting jobs
 - 💬 Ask me about your problems
--->
